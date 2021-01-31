@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/TaskH.dir/main.cpp.o  -o TaskH 

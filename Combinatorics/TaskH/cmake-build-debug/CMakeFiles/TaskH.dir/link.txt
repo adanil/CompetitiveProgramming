@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/TaskH.dir/main.cpp.o  -o TaskH 
+/usr/bin/c++   -std=c++17 -g   CMakeFiles/TaskH.dir/main.cpp.o  -o TaskH 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniil/CompetitiveProgramming/Train5Semester/Week1/taskC/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+set
+-
+map
+-
+unordered_map
+-
+

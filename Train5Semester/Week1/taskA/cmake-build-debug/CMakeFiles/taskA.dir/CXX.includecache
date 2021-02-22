@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniil/CompetitiveProgramming/Train5Semester/Week1/taskA/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+iomanip
+-
+

@@ -1,0 +1,3 @@
+/home/daniil/CompetitiveProgramming/Train5Semester/Week1/taskC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniil/CompetitiveProgramming/Train5Semester/Week1/taskC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniil/CompetitiveProgramming/Train5Semester/Week1/taskC/cmake-build-debug/CMakeFiles/taskC.dir
